@@ -1,6 +1,14 @@
 ---
 published: true
 ---
-## test
+`github pages`+`jekyll`+`prose.io`
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## simple test
+$\delta$
+```c++
+int main()
+{
+  printf("hello git");
+}
+```
+
