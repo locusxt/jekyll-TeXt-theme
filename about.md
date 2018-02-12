@@ -6,12 +6,7 @@ titles:
   zh-Hans: 关于
   zh-Hant: 關於
 key: page-about
+published: true
 ---
 
-Just say something about yourself. :+1:
-
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
-
-## title
+Just for fun :)
