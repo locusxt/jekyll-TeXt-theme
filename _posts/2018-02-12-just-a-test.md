@@ -1,5 +1,6 @@
 ---
 published: true
+key: test
 ---
 `github pages`+`jekyll`+`prose.io`
 
@@ -11,4 +12,3 @@ int main()
   printf("hello git");
 }
 ```
-
