@@ -47,7 +47,7 @@ author:
   email: locusxt@gmail.com #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  # github:  #your GitHub username
+  github: locusxt #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
@@ -72,7 +72,7 @@ gitalk:
     - locusxt
 
 ## Google Analytics ##
-# ga_tracking_id:  #Google analytics id for the site
+ga_tracking_id: UA-114026239-1 #Google analytics id for the site
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
@@ -82,8 +82,8 @@ leancloud:
 
 mathjax: true
 mathjax_autoNumber: true
-mermaid: true
-chart: true
+# mermaid: true
+# chart: true
 
 ## Paginate ##
 paginate: 7
