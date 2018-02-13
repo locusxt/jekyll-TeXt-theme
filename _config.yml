@@ -59,17 +59,17 @@ toc:
 
 ## Comment system (Disqus) ##
 disqus:
-  shortname: locusxt-github-io #the Disqus shortname for the site
+  # shortname: locusxt-github-io #the Disqus shortname for the site
 
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  # clientID:  #Github Application Client ID
-  # clientSecret:  #Github Application Client Secret
-  # repository:  #Github repo
-  # owner:  #Github repo owner
-  # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-    # - owner
+  clientID: e17fce0f18aa48870dc5 #Github Application Client ID
+  clientSecret: 5a43de9ef37b7324660880732b57f23d4db548bc #Github Application Client Secret
+  repository: locusxt.github.io #Github repo
+  owner: locusxt #Github repo owner
+  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+    - locusxt
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
